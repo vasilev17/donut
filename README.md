@@ -1,6 +1,6 @@
 # Terminal 3D Spinning Donut in C
 
-<img src="misc/Spinning%20Donut%20Showcase.gif" width="850">
+<img width="850" src="https://github.com/user-attachments/assets/91db407e-ea50-4dde-a3e2-54d887fe66b6">
 
 ### *Inspired by:*
 [Lex Fridman](https://www.youtube.com/@lexfridman) and
